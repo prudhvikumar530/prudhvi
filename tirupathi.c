@@ -1,3 +1,0 @@
-gmail.in
-google.com
-
