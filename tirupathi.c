@@ -1,3 +1,3 @@
-gmail.cotm
+gmail.in
 google.com
 
