@@ -1,0 +1,5 @@
+.
+..
+.git
+login.txt
+README
